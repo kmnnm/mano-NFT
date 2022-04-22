@@ -75,11 +75,11 @@ NFT 발행 및 간단한 Dapp 만들기
 
 # 6. 발생이슈 & 해결 과정
 
-### "컴포넌트에서 map() 메서드 사용"
+### "React v18에서 ReactDOM.render 사용"
 
 [상황] ![다운로드](https://user-images.githubusercontent.com/98136297/164587281-1d615c4e-20f6-45b3-b152-82fe92c969be.png)
 
-[문제] React v18에서 ReactDOM.render 미지원
+[문제] React v18는 ReactDOM.render 미지원
 
 [해결]
 https://reactjs.org/link/switch-to-createroot
