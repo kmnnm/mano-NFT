@@ -1,4 +1,4 @@
-v# 프로젝트 명 : mano-NFT
+# 프로젝트 명 : mano-NFT
 
 ## 프로젝트 목표 : NFT 발행 및 간단한 Dapp 만들기
 
